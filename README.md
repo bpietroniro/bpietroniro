@@ -1,4 +1,4 @@
-## Useful links
+## Links
 
 - [GitLab](https://gitlab.com/bethanypietroniro): all private contributions, but provides additional evidence that I push commits if that's what you're looking for 🙂
 - [portfolio](https://bethanypietroniro.dev) (ish... it'll mostly redirect you here)
